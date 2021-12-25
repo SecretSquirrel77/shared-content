@@ -66,8 +66,8 @@
     "./scripts/init.js"
   ],
   "dependencies": [],
-  "url": "",
+  "url": "https://github.com/SecretSquirrel77/shared-content/blob/main/module.json",
   "manifest": "https://github.com/SecretSquirrel77/shared-content/blob/main/module.json",
-  "download": "",
+  "download": "https://github.com/SecretSquirrel77/shared-content/blob/main/shared-compendiums.zip",
   "manifestPlusVersion": "1.2.0"
 }
